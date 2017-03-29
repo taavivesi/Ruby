@@ -1,4 +1,4 @@
-#!/usr/bin/ruby -w
+# !/usr/bin/ruby -w
 
 #puts "How much did you earn last month"
 #earnings = gets.chomp

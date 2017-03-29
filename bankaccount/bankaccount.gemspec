@@ -6,7 +6,7 @@ require 'bankaccount/version'
 Gem::Specification.new do |spec|
   spec.name          = "bankaccount"
   spec.version       = Bankaccount::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Taavi"]
   spec.email         = ["TODO: Write your email address"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
